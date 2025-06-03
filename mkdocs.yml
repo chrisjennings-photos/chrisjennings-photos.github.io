@@ -23,7 +23,7 @@ nav:
   - About.md
   - Tags.md
   - 'My Art': 'https://www.chrisjennings.net'
-  - 'Subscribe': 'https://chrisjenningsart.substack.com/'
+  # - 'Subscribe': 'https://chrisjenningsart.substack.com/'
 
 theme:
     name: 'material'

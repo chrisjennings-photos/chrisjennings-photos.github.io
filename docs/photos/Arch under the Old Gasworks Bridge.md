@@ -1,11 +1,12 @@
 ---
 date: 2025-01-30
-updated: 2025-03-16
+updated: 2025-06-07
 title: Arch under the Old Gasworks Bridge over the Thames at Oxford
 tags:
   - Arcs
   - Architcture
   - Walks
+  - Bridges
 Source: Nikon J5
 ---
 

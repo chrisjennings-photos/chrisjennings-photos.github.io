@@ -1,10 +1,11 @@
 ---
 date: 2025-02-04
-updated: 2025-03-01
+updated: 2025-06-07
 title: Some Bridges over the Thames
 tags:
   - River
   - Thames
+  - Bridges
 hide:
   - toc
   - navigation

@@ -1,6 +1,6 @@
 ---
 date: 2025-06-03
-updated: 2025-06-07
+updated: 2025-06-08
 title: Godstow Bridge on the Thames
 tags:
   - River
@@ -10,6 +10,8 @@ Source: iPhone
 ---
 
 ![Godstow Bridge](https://live.staticflickr.com/65535/54565326730_d73c161ebe_h_d.jpg)
+
+<!-- more -->
 
 This bridge is just upstream of Godstow Lock (the last hydraulically operated lock going upstream). The bridge is also very near to the remains of Godstow nunnery.
 

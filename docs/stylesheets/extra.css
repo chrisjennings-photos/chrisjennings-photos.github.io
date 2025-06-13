@@ -111,7 +111,7 @@ img {
 }
 
 .md-post--excerpt {
-  flex-basis: 780px;
+  flex-basis: 650px;
   border: solid rgba(94, 94, 94, 0.138) 1px;
   flex-grow: 1;
   flex-shrink: 1;

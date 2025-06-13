@@ -47,5 +47,13 @@
       ],
       "key": "M"
     }
+  ],
+  "advanced-copy:copy-page": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "A"
+    }
   ]
 }

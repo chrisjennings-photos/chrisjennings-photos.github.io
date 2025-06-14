@@ -1,6 +1,6 @@
 ---
 date: 2025-06-13
-updated: 2025-06-13
+updated: 2025-06-14
 title: River's Edge
 Source: iPhone
 tags:
@@ -18,4 +18,5 @@ tags:
 
 ![Lily pads and blades](https://www.flickr.com/photo_download.gne?size=h&id=54585416467&secret=d3adcbd536)
 
-![Reeds and Lily pads](https://live.staticflickr.com/65535/54586478729_9ec99f13c6_h.jpg)
+![Reeds and Lily pads](https://www.flickr.com/photo_download.gne?size=o&id=54586478729&secret=8bcba8cb0a)
+

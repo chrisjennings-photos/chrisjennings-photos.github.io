@@ -11,7 +11,7 @@ tags:
 
 ![Amongst the grasses and pathways](https://www.flickr.com/photo_download.gne?size=h&id=54590610540&secret=9018390bc3)
 
-<! -- more -->
+<!-- more -->
 
 ![Bracken against the trees of the forest](https://www.flickr.com/photo_download.gne?size=h&id=54590661168&secret=c4fcab8bb1)
 The seasons in the forest are marked by the colour of the bracken that carpets the ground under the tree canopy. 

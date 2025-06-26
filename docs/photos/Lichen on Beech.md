@@ -1,6 +1,6 @@
 ---
 date: 2025-06-08
-updated: 2025-06-08
+updated: 2025-06-27
 title: Lichen on Beech tree
 Source: Nikon 7ii
 tags:
@@ -10,7 +10,7 @@ tags:
 ---
 
 
-![](https://live.staticflickr.com/65535/54575239761_1c61b8fc48_h_d.jpg)
+![Orange Lichen on a single beech tree](https://live.staticflickr.com/65535/54616560020_3243269dbb_h.jpg)
 
 <!-- more -->
 
